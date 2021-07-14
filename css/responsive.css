@@ -1,0 +1,1198 @@
+/*For bigger screen then normal 1500px desktop*/
+
+@media (min-width: 1500px) {
+  .container {
+    max-width: 1300px;
+  }
+}
+
+
+@media (min-width: 1200px) and (max-width: 1700px) {
+.container {
+    max-width: 1000px;
+}
+h1, .h1 {
+    font-size: 60px;
+    line-height: 70px;
+}
+h2, .h2 {
+    font-size: 42px;
+    line-height: 48px;
+}
+.comenci-company-section {
+    padding: 155px 0 130px;
+}
+.comenci-service-wrap {
+    padding: 30px 23px;
+}
+.comenci-default-content {
+    margin-right: 0;
+}
+.comenci-skill-thumb {
+    width: 68%;
+    margin-left: 32%;
+}
+.comenci-skill-card {
+    width: 55%;
+    left: -45%;
+}
+.comenci-team-thumb {
+    height: 250px;
+}
+.comenci-testimonial-section {
+    padding: 130px 0 190px;
+}
+.comenci-testimonial-slider .owl-nav {
+    position: inherit;
+    left: inherit;
+    bottom: -60px;
+}
+.comenci-testimonial-item p {
+    font-size: 16px;
+}
+.comenci-testimonial-item {
+    padding: 30px;
+}
+.footer-home .comenci-footer-widget {
+    margin-left: 25px;
+}
+
+/*v2*/
+.comenci-hero-section.comenci-hero-section2:after, 
+.comenci-hero-section.comenci-hero-section2:before {
+    left: -28vw;;
+    border-radius: 0 0 50% 50%;
+}
+.comenci-service-wrap.comenci-service-wrap2 {
+    padding: 40px 25px;
+}
+.comenci-skillbar-section {
+    padding: 130px 0;
+}
+.comenci-skillbar-section .comenci-default-content.comenci-default-content2 {
+    margin-right: 0;
+}
+.comenci-textarea {
+    margin-right: 5px;
+}
+.footer-social ul li {
+    margin: 0 10px;
+}
+.comenci-footer-menu ul li a {
+    font-size: 15px;
+}
+/*v3*/
+.comenci-hero-section.comenci-hero-section3 {
+    min-height: 710px;
+}
+.comenci-hero-content.comenci-hero-content3 h1 {
+    font-size: 50px;
+    line-height: 60px;
+}
+.comenci-hero-button3.comenci-hero-button p {
+    margin: 0;
+    margin-left: 44px;
+    font-size: 16px;
+}
+.home-three.comenci-about-section {
+    padding: 130px 0 150px;
+}
+.home-three .comenci-testimonial-item {
+    padding: 25px;
+}
+.home-three .comenci-testimonial-thumb {
+    margin-right: 15px;
+}
+.comenci-testimonial-quote img {
+    width: 55px!important;
+}
+/*about page*/
+.comenci-story-section .dot-shape.dot-shape2 {
+    right: -7%;
+    bottom: -9%;
+}
+.comenci-about-section.comenci-about-page {
+    padding: 130px 0;
+}
+.comenci-about-thumb2 {
+    right: -35%;
+}
+.comenci-story-section {
+    padding: 155px 0 150px;
+}
+
+/*contact page*/
+.comenci-contact-info {
+    margin-right: 30px;
+}
+.comenci-contact-form {
+    margin-left: 30px;
+}
+
+/*term & condition page*/
+.comenci-terms-condition-wrap {
+    padding: 60px 80px;
+}
+
+/*portfolio page*/
+.comenci-project-info p {
+    font-size: 16px;
+}
+.comenci-project-info{
+    padding: 30px;
+}
+.comenci-project-info-wrap {
+    margin-top: 30px;
+}
+.comenci-project-info-item {
+    margin-bottom: 25px;
+}
+.comenci-project-info {
+    padding: 20px 25px 10px 25px;
+}
+.comenci-thumb2-slider-item {
+    height: auto;
+}
+
+/*blog page*/
+.blog-page .comenci-blog-wrap {
+    display: block;
+}
+.blog-page .comenci-blog-content {
+    padding: 25px 0 0;
+}
+.blog-page.blog-sidebar-page .comenci-blog-wrap {
+    padding: 20px;
+}
+.comenci-recent-post-item {
+    padding: 0;
+}
+.comenci-sidebar-widget {
+    padding: 20px;
+}
+.comenci-catogories ul li a {
+    padding: 17px 39px;
+}
+.comenci-catogories ul li a:before {
+    left: 15px;
+    top: 25px;
+}
+.blog-single .media {
+    height: auto;
+}
+/*careers page*/
+.comenci-careers-section .comenci-default-content {
+    margin-left: 50px;
+}
+.comenci-job-wrap {
+    padding: 30px;
+}
+.comenci-single-careers-wrap {
+    margin-right: 100px;
+}
+
+
+
+}
+
+
+/*For bigger screen then normal 960px desktop*/
+@media only screen and (max-width: 1199px) {
+h1, .h1 {
+    font-size: 60px;
+    line-height: 68px;
+}
+.site-menu-main .nav-link-item {
+    padding-left: 13px !important;
+    padding-right: 13px !important;
+}
+
+h2, .h2 {
+    font-size: 40px;
+    line-height: 50px;
+}
+h3, .h3 {
+    font-size: 18px;
+}
+.section-padding, 
+.comenci-skillbar-section {
+    padding: 100px 0;
+}
+.comenci-service-section.padding-less-bottom, 
+.testimonial-page-section, 
+.comenci-portfolio-section.padding-less-bottom {
+    padding: 100px 0 76px;
+}
+.comenci-skillbar-section {
+    padding: 120px 0 100px;
+}
+.comenci-blog-section.padding-less-bottom {
+    padding: 100px 0 70px;
+}
+.comenci-social ul li {
+    margin: 0 2px;
+}
+.comenci-team-data {
+    padding: 15px;
+}
+.comenci-testimonial-section {
+    padding: 100px 0 160px;
+}
+.service-one .comenci-default-content {
+    margin: 0 0 30px;
+}
+.comenci-skill-section .comenci-default-content{
+    margin: 0;
+}
+.comenci-skill-thumb {
+    width: 68%;
+    margin-left: 32%;
+}
+.comenci-skill-card {
+    width: 55%;
+    left: -44%;
+}
+.comenci-company-section {
+    padding: 155px 0 100px;
+}
+.comenci-company-thumb1 {
+    width: 59%;
+    margin-left: 23%;
+}
+.comenci-team-thumb {
+    height: 250px;
+}
+.comenci-testimonial-item p {
+    font-size: 16px;
+}
+.comenci-testimonial-item {
+    padding: 30px;
+}
+.comenci-testimonial-thumb {
+    margin-right: 15px;
+}
+.comenci-testimonial-slider .owl-nav {
+    position: inherit;
+    left: inherit;
+    bottom: -60px;
+}
+.comenci-blog-wrap {
+    margin-bottom: 30px;
+}
+.footer-home .comenci-footer-widget {
+    margin-left: 15px;
+}
+
+/*v2*/
+.comenci-hero-section.comenci-hero-section2:after, 
+.comenci-hero-section.comenci-hero-section2:before {
+    left: -28vw;;
+    border-radius: 0 0 50% 50%;
+}
+.comenci-service-wrap.comenci-service-wrap2 {
+    padding: 40px 20px;
+}
+.comenci-skillbar-section .comenci-default-content.comenci-default-content2 {
+    margin-right: 0;
+}
+.comenci-team-section.padding-less-bottom {
+    padding: 100px 0;
+}
+.comenci-testimonial-section.comenci-testimonial-section2 {
+    padding: 100px 0 165px;
+}
+.comenci-testimonial-slider2 .owl-prev, 
+.comenci-testimonial-slider2 .owl-next {
+    left: -100px;
+}
+.comenci-testimonial-slider2 .owl-next {
+  left: auto;
+  right: -100px;
+}
+
+.comenci-textarea {
+    margin-right: 68px;
+    margin-bottom: 30px;
+}
+
+/*v3*/
+.comenci-hero-content.comenci-hero-content3 h1 {
+    font-size: 50px;
+    line-height: 60px;
+}
+.comenci-hero-button3.comenci-hero-button p {
+    margin: 0;
+    margin-left: 30px;
+    font-size: 16px;
+}
+.hero-thumb {
+    position: relative;
+    left: 0;
+}
+.home-three.comenci-about-section {
+    padding: 100px 0;
+}
+.comenci-hero-section.comenci-hero-section3 {
+    min-height: 700px;
+}
+.comenci-pricing-section .comenci-default-content.m_0 {
+    margin-bottom: 30px;
+}
+.comenci-dots3 {
+    display: none;
+}
+/*about page*/
+.comenci-story-section {
+    padding: 126px 0 100px;
+}
+.comenci-inner-section {
+    padding: 160px 0 100px;
+}
+.comenci-story-section .dot-shape.dot-shape2 {
+    right: -7%;
+    bottom: -9%;
+}
+.comenci-about-section.comenci-about-page{
+    padding: 100px 0;
+}
+.comenci-about-thumb2 {
+    right: -34%;
+}
+
+/*contact page*/
+.comenci-contact-info {
+    margin-right: 30px;
+}
+.comenci-contact-form {
+    margin-left: 30px;
+}
+/*term & condition page*/
+.comenci-terms-condition-wrap {
+    padding: 60px;
+}
+/*portfolio page*/
+.comenci-portfolio-thumb{
+    height: auto;
+}
+.comenci-thumb1-slider-item {
+    margin-bottom: 30px;
+}
+.comenci-thumb2-slider-item{
+    height: auto;
+}
+.comenci-thumb2-slider .owl-dots {
+    margin-top: 40px;
+}
+/*blog page*/
+.blog-page .comenci-blog-wrap {
+    display: block;
+}
+.blog-page .comenci-blog-content {
+    padding: 25px 0 0;
+}
+.blog-page.blog-sidebar-page .comenci-blog-wrap {
+    padding: 20px;
+}
+.meta ul li {
+    margin-right: 15px;
+}
+.comenci-recent-post-item {
+    padding: 0;
+}
+.comenci-sidebar-widget {
+    padding: 20px;
+}
+.comenci-catogories ul li a {
+    padding: 17px 39px;
+}
+.comenci-catogories ul li a:before {
+    left: 15px;
+    top: 25px;
+}
+.blog-single .media {
+    height: auto;
+}
+
+/*careers page*/
+.comenci-careers-section .comenci-default-content {
+    margin-left: 40px;
+}
+.comenci-job-wrap {
+    padding: 25px;
+    margin-bottom: 40px;
+}
+.comenci-single-careers-wrap {
+    margin-right: 50px;
+}
+/*faq page*/
+.comenci-faq-sidebar {
+    padding: 25px;
+}
+.faq-page-section .comenci-section-title{
+    margin-bottom: 60px
+}
+/*404 page*/
+.comenci-page404-section {
+    padding: 215px 0 100px;
+}
+
+/*account page*/
+.comenci-account-logo {
+    margin-bottom: 80px;
+}
+.comenci-account-box {
+    padding: 80px 65px;
+}
+.comenci-account-box.comenci-account-box2 {
+    padding: 80px;
+}
+
+
+}
+
+@media (min-width: 992px) and (max-width: 1024px) {
+
+
+}
+
+
+/*For Tablet Layout*/
+@media (max-width: 991px) {
+.site-menu-main .sub-menu.shape-none {
+    margin-left: 0;
+}
+ul.site-menu-main .nav-item:hover i, 
+li.sub-menu--item.nav-item-has-children:hover i {
+    transform: rotate(0deg)!important;
+}
+.site-menu-main > li > a i, 
+li.sub-menu--item.nav-item-has-children i {
+    transform: rotate(0deg)!important;
+}
+h1, .h1 {
+    font-size: 50px;
+    line-height: 56px;
+}
+.comenci-hero-content {
+    max-width: 550px;
+}
+.comenci-hero-section {
+    min-height: 750px;
+}
+.comenci-company-section {
+    padding: 155px 0 80px;
+}
+.circe-shape {
+    width: 80%;
+}
+.section-padding, 
+.comenci-cta-section, 
+.home-three.comenci-video-section {
+    padding: 80px 0;
+}
+.comenci-team-section.padding-less-bottom {
+    padding: 80px 0 50px;
+}
+.comenci-service-section.padding-less-bottom, 
+.testimonial-page-section, 
+.comenci-portfolio-section.padding-less-bottom {
+    padding: 80px 0 56px;
+}
+.comenci-skillbar-section {
+    padding: 105px 0 80px;
+}
+.comenci-blog-section.padding-less-bottom {
+    padding: 80px 0 50px;
+}
+.comenci-team-thumb {
+    height: auto;
+}
+.comenci-testimonial-section {
+    padding: 80px 0 140px;
+}
+.comenci-company-thumb-wrap {
+    margin-bottom: 85px;
+}
+.comenci-company-thumb1 {
+    margin-left: 0;
+    margin: 0 auto;
+}
+.comenci-skill-thumb {
+    margin-bottom: 50px;
+}
+.comenci-skill-thumb {
+    width: 64%;
+    margin-left: 35%;
+}
+.thumb {
+    margin-left: 26%;
+}
+.comenci-skill-thumb img {
+    border-radius: 10px;
+}
+.comenci-skill-card {
+    width: 58%;
+    left: -50%;
+}
+.comenci-team-wrap, 
+.comenci-pricing-wrap{
+  margin-bottom: 30px
+}
+
+.comenci-testimonial-wrap {
+    margin-top: 35px;
+}
+.comenci-textarea {
+    margin-bottom: 35px;
+}
+.footer-home .comenci-footer-widget{
+  margin: 0
+}
+.comenci-footer-top {
+    padding: 80px 0;
+}
+
+/*v2*/
+.comenci-service-wrap.comenci-service-wrap2{
+    margin-bottom: 25px
+}
+.col-lg-4.col-md-6:last-child .comenci-service-wrap.comenci-service-wrap3{
+    margin: 0
+}
+.comenci-service-wrap.comenci-service-wrap3 {
+    margin-bottom: 30px;
+}
+.comenci-about-thumb {
+    margin-bottom: 140px;
+}
+.comenci-about-thumb2 {
+    right: -37%;
+}
+.comenci-progress-thumb {
+    margin: 0 auto;
+    margin-bottom: 87px;
+}
+.comenci-single-counter {
+    text-align: center;
+}
+.col-md-6:last-child .comenci-pricing-wrap{
+    margin-bottom: 0;
+}
+.comenci-testimonial-section.comenci-testimonial-section2 {
+    padding: 80px 0 145px;
+}
+.comenci-testimonial-slider2 .owl-prev, 
+.comenci-testimonial-slider2 .owl-next {
+    left: -50px;
+}
+.comenci-testimonial-slider2 .owl-next {
+  left: auto;
+  right: -50px;
+}
+
+/*v3*/
+.comenci-hero-section.comenci-hero-section3 {
+    padding-top: 150px;
+}
+.comenci-hero-content.comenci-hero-content3 {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 80px;
+}
+.comenci-logo-item {
+    flex: 0 0 14%;
+}
+.home-three.comenci-about-section {
+    padding: 95px 0 80px;
+}
+.home-three .comenci-about-thumb {
+    width: 88%;
+    margin-bottom: 100px;
+}
+.home-three .dot-shape {
+    left: -7%;
+    top: -5%;
+}
+.comenci-counter-section.home-three {
+    padding: 80px 0 50px;
+}
+.home-three .comenci-single-counter {
+    margin-bottom: 30px;
+}
+.comenci-default-content.m_l {
+    margin: 0;
+}
+.comenci-accordion-wrap {
+    margin-top: 40px
+}
+.accordion-button {
+    padding: 20px 30px;
+}
+.accordion-body{
+    padding: 20px 30px;
+}
+
+.home-three .comenci-testimonial-item {
+    padding: 25px;
+}
+.home-three .comenci-testimonial-thumb {
+    margin-right: 15px;
+}
+.comenci-testimonial-quote img {
+    width: 55px!important;
+}
+
+/*about page*/
+.comenci-story-section {
+    padding: 100px 0 80px;
+}
+.comenci-story-section .comenci-progress-thumb {
+    margin-bottom: 60px;
+}
+.navbar {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.comenci-story-section .dot-shape.dot-shape2 {
+    right: -7%;
+}
+.comenci-story-section .comenci-progress-thumb:before {
+    right: auto;
+    left: -18px;
+    top: -18px;
+
+}
+.comenci-inner-section {
+    padding: 140px 0 80px;
+}
+.comenci-story-section .dot-shape.dot-shape2 {
+    right: -19%;
+    bottom: -7%;
+}
+.comenci-about-section.comenci-about-page {
+    padding: 80px 0;
+}
+.comenci-about-page .dot-shape {
+    bottom: -4%;
+}
+
+/*contact page*/
+.comenci-contact-form {
+    margin-left: 0;
+    padding: 35px 35px 10px;
+}
+/*term & condition page*/
+.comenci-terms-condition-wrap {
+    padding: 45px;
+}
+/*portfolio page*/
+.comenci-thumb2-slider-wrap {
+    margin-top: 80px;
+}
+.comenci-portfolio-menu {
+    margin-bottom: 50px;
+}
+.comenci-portfolio-menu ul li {
+    margin: 0 8px;
+}
+.comenci-section-title {
+    margin-bottom: 50px;
+}
+/*blog page*/
+.blog-page .media {
+    height: auto;
+}
+.comenci-blog-sidebar {
+    margin-top: 40px;
+}
+.comenci-recent-post-thumb {
+    flex: 0 0 17%;
+}
+/*faq page*/
+.comenci-faq-sidebar {
+    margin-top: 30px;
+}
+/*carreers page*/
+.comenci-careers-section .comenci-default-content {
+    margin-left: 0;
+}
+.comenci-careers-thumb {
+    margin-bottom: 30px;
+}
+.comenci-job-wrap {
+    padding: 30px;
+    margin-bottom: 30px;
+}
+.comenci-single-careers-wrap {
+    margin-right: 50px;
+    margin: 0 0 30px;
+}
+/*404 page*/
+.comenci-page404-section {
+    padding: 200px 0 80px;
+}
+.comenci-page404-logo {
+    margin-bottom: 75px;
+}
+/*coming soon page*/
+.number {
+    font-size: 80px;
+}
+.comeci-coming-soong-content {
+    margin-bottom: 50px;
+}
+
+}
+
+/*For Wide Mobile Layout*/
+@media (max-width: 767px) {
+h1, .h1 {
+    font-size: 45px;
+    line-height: 52px;
+}
+.comenci-hero-section.comenci-hero-section2 {
+    min-height: 620px;
+}
+.comenci-hero-content.comenci-hero-content2 {
+    padding-top: 70px;
+}
+.comenci-company-section {
+    padding: 140px 0 60px;
+}
+.comenci-service-wrap:last-child {
+    margin-bottom: 24px;
+}
+.col-lg-6.col-md-6:last-child .comenci-service-wrap{
+    margin-bottom: 0
+}
+.service-one .comenci-service-wrap:last-child {
+    margin-bottom: 24px;
+}
+.col-lg-3.col-md-6:last-child .comenci-blog-wrap{
+    margin-bottom: 0;
+}
+.comenci-default-content {
+    margin-right: 0;
+}
+.section-padding, 
+.comenci-cta-section, 
+.home-three.comenci-video-section {
+    padding: 60px 0;
+}
+.comenci-service-section.padding-less-bottom, 
+.testimonial-page-section, 
+.comenci-portfolio-section.padding-less-bottom {
+    padding: 60px 0 35px;
+}
+.comenci-team-section.padding-less-bottom {
+    padding: 60px 0 30px;
+}
+.comenci-skillbar-section {
+    padding: 85px 0 60px;
+}
+.comenci-blog-section.padding-less-bottom {
+    padding: 60px 0 30px;
+}
+.comenci-testimonial-section {
+    padding: 60px 0 140px;
+}
+h2, .h2 {
+    font-size: 36px;
+    line-height: 43px;
+}
+.comenci-company-thumb-wrap {
+    margin-bottom: 70px;
+}
+.comenci-company-thumb1 {
+    width: 58%;
+}
+.comenci-default-content.text-center-responsive {
+    text-align: center;
+}
+.home-three .comenci-testimonial-item {
+    text-align: left;
+}
+.comenci-testimonial-item {
+    text-align: center;
+}
+.comenci-testimonial-header {
+    justify-content: center;
+}
+.comenci-testimonial-slider .owl-nav {
+    bottom: -75px;
+    text-align: center;
+}
+.comenci-subscription-wrap {
+    text-align: center;
+}
+.comenci-footer-widget {
+    margin-bottom: 35px;
+}
+.footer-home .comenci-footer-widget {
+    margin: 0 0 35px;
+}
+.comenci-footer-menu ul li {
+    margin-bottom: 12px;
+}
+.comenci-footer-top {
+    padding: 60px 0 30px;
+}
+/*v2*/
+.comenci-about-thumb {
+    margin-bottom: 115px;
+}
+.comenci-hero-section.comenci-hero-section2:after, 
+.comenci-hero-section.comenci-hero-section2:before {
+    left: 0;
+    width: 100%;
+    border-radius: 0;
+}
+.comenci-dots{
+    display: none
+}
+.comenci-video-section {
+    padding: 60px 0;
+}
+.comenci-single-counter {
+    margin-bottom: 30px;
+    flex: 0 0 50%;
+}
+.comenci-counter-section.home-three {
+    padding: 60px 0 30px;
+}
+.comenci-counter-section {
+    padding: 60px 0 30px;
+}
+
+.comenci-testimonial-section.comenci-testimonial-section2 {
+    padding: 60px 0 122px;
+}
+.comenci-testimonial-slider2 .owl-prev, 
+.comenci-testimonial-slider2 .owl-next {
+    left: -10px;
+}
+.comenci-testimonial-slider2 .owl-next {
+  left: auto;
+  right: -10px;
+}
+.comenci-story-section {
+    padding: 84px 0 60px;
+}
+/*v3*/
+.comenci-hero-content.comenci-hero-content3 h1 {
+    font-size: 45px;
+    line-height: 56px;
+}
+.comenci-logo-item {
+    flex: 0 0 28%;
+    margin-bottom: 30px;
+}
+.comenci-logo-section {
+    padding: 60px 0 30px;
+}
+.home-three.comenci-about-section {
+    padding: 85px 0 60px;
+}
+.home-three .comenci-about-thumb {
+    margin-bottom: 60px;
+}
+.home-three .comenci-single-counter {
+    justify-content: center;
+}
+/*about page*/
+.comenci-story-section .dot-shape.dot-shape2 {
+    right: -10%;
+    bottom: -9%;
+}
+.comenci-about-thumb2 {
+    right: -35%;
+}
+.comenci-about-section.comenci-about-page {
+    padding: 60px 0;
+}
+.comenci-cta-content p {
+    margin-bottom: 30px;
+}
+
+/*contact page*/
+.comenci-contact-info {
+    margin: 0;
+}
+/*portfolio page*/
+.comenci-thumb2-slider-wrap {
+    margin-top: 60px;
+}
+.comenci-project-info-wrap {
+    display: block;
+}
+.comenci-project-info {
+    padding: 30px 30px 4px 30px;
+}
+.comenci-portfolio-menu {
+    margin-bottom: 40px;
+}
+.comenci-portfolio-menu ul li {
+    font-size: 16px;
+    padding: 10px 5px;
+    margin: 0 3px;
+    width: 120px;
+}
+.comenci-section-title {
+    margin-bottom: 40px;
+}
+
+/*blog page*/
+.blog-single .media {
+    height: auto;
+}
+.comenci-comment-field textarea {
+    height: 150px;
+}
+.comenci-recent-post-thumb {
+    flex: 0 0 24%;
+}
+/*service single*/
+.comenci-service-single-title h2 {
+    font-size: 34px;
+    line-height: 42px;
+}
+.comenci-service-single-video {
+    min-height: 350px;
+}
+/*careers page*/
+.comenci-job-footer {
+    margin-top: 15px;
+}
+/*404 page*/
+.comenci-page404-section {
+    padding: 200px 0 60px;
+}
+/*account page*/
+.comenci-account-box, 
+.comenci-account-box.comenci-account-box2 {
+    padding: 65px 45px;
+}
+.comenci-account-logo {
+    margin-bottom: 60px;
+}
+
+/*coming soon page*/
+.number {
+    font-size: 48px;
+    margin-bottom: 5px;
+}
+.comenci-coming-soon-section .comenci-subscription-field {
+    margin-top: 50px;
+}
+
+}
+
+@media (max-width: 575px) {
+
+  .order-sm-1{
+    order: 1;
+  }
+  .order-sm-2{
+    order: 2;
+  }
+  .comenci-counter-wrap {
+    display: block;
+}
+.comenci-service-wrap{
+  text-align: center;
+}
+.home-three .comenci-service-icon {
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+.comenci-portfolio-menu ul li {
+    font-size: 14px;
+    padding: 8px;
+    margin: 0 2px 8px;
+    border-radius: 3px;
+    width: 105px;
+}
+
+
+}
+
+
+
+/*For 320-384px up Mobile Layout*/
+
+@media (max-width: 479px) {
+h1, .h1 {
+    font-size: 40px;
+}
+.comenci-hero-content p {
+    margin-right: 0;
+}
+.comenci-hero-section {
+    min-height: 700px;
+}
+
+.comenci-hero-button {
+    display: block;
+    margin-top: 30px;
+}
+a.hero-popup {
+    margin-top: 50px;
+}
+.comenci-company-thumb1 {
+    width: 58%;
+}
+.comenci-company-thumb-wrap {
+    margin-bottom: 60px;
+}
+.home-three .dot-shape {
+    left: -6%;
+}
+.home-subscription button#comenci-subscription {
+    position: inherit;
+    right: inherit;
+    top: inherit;
+    margin-top: 20px;
+}
+
+/*v2*/
+a.comenci-default-btn.border-btn {
+    margin: 0 2px;
+}
+.comenci-about-thumb {
+    margin-bottom: 90px;
+}
+.comenci-progress-thumb {
+    margin-bottom: 50px;
+}
+
+.comenci-testimonial-section2 .comenci-testimonial-item {
+    padding: 35px;
+}
+.comenci-testimonial-slider2 .owl-prev, 
+.comenci-testimonial-slider2 .owl-next {
+    left: 0;
+}
+.comenci-testimonial-slider2 .owl-next {
+  left: auto;
+  right: 0;
+}
+/*v3*/
+.comenci-hero-content.comenci-hero-content3 {
+    text-align: center;
+}
+.comenci-hero-content.comenci-hero-content3 h1 {
+    font-size: 41px;
+    line-height: 50px;
+}
+.comenci-hero-content.comenci-hero-content3 p {
+    margin-right: 0;
+}
+.comenci-logo-wrap {
+    display: block;
+    text-align: center;
+}
+.comenci-logo-item {
+    margin: 0 auto;
+    margin-bottom: 30px;
+    max-width: 150px;
+}
+.home-three .comenci-about-thumb {
+    margin-bottom: 50px;
+}
+.home-three .col-lg-3.col-md-6.col-sm-6:last-child .comenci-service-wrap.comenci-service-wrap2{
+    margin-bottom: 0
+}
+.accordion-body{
+    padding: 15px 20px;
+}
+.accordion-button {
+    padding: 15px 20px;
+    font-size: 16px;
+    line-height: 1.3;
+}
+/*about page*/
+.comenci-inner-section {
+    padding: 115px 0 60px;
+}
+.comenci-story-section .dot-shape.dot-shape2 {
+    right: -5%;
+}
+.comenci-story-section .comenci-progress-thumb:before {
+    left: -8px;
+    top: -10px;
+}
+/*term & condition*/
+.comenci-terms-condition-wrap {
+    padding: 30px;
+}
+.comenci-terms-condition-wrap h3 {
+    font-size: 26px;
+}
+.comenci-terms-condition-wrap h4 {
+    font-size: 20px;
+}
+/*portfolio page*/
+.comenci-portfolio-menu {
+    margin-bottom: 30px;
+}
+/*blog page*/
+.comenci-comment-user-item {
+    display: block;
+}
+.comenci-coment-user-thumb {
+    margin: 0 0 20px;
+}
+.comenci-comment-user-item.item2 {
+    margin-left: 0;
+}
+.blog-single .comenci-blog-wrap {
+    padding: 20px;
+}
+
+/*service single*/
+.comenci-service-single-video {
+    min-height: 240px;
+}
+.comenci-service-single-content-bottom h2 {
+    font-size: 24px;
+    margin-bottom: 15px;
+    line-height: 32px;
+}
+.comenci-service-single-info ul {
+    column-count: 1;
+}
+
+/*account page*/
+.comenci-account-box, 
+.comenci-account-box.comenci-account-box2 {
+    padding: 40px 30px;
+}
+.comenci-create-acc {
+    margin-top: 40px;
+}
+.comenci-account-box h2{
+    font-size: 28px;
+}
+.comenci-account-cehck {
+    margin: 20px 0 25px;
+}
+a.comenci-forget-pass {
+    display: block;
+    text-align: center;
+    margin: 15px 0 0;
+}
+.comenci-account-section a.comenci-default-btn {
+    width: 100%;
+}
+
+/*comong soon page*/
+.number {
+    font-size: 36px;
+}
+.number:after {
+    top: 43%;
+    right: -30px;
+    font-size: 44px
+}
+
+}
